@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Wikipedia-Fetcher-Api-/static/css/main.c4dd9649.css",
+    "main.js": "/Wikipedia-Fetcher-Api-/static/js/main.d5ac5805.js",
+    "index.html": "/Wikipedia-Fetcher-Api-/index.html",
+    "main.c4dd9649.css.map": "/Wikipedia-Fetcher-Api-/static/css/main.c4dd9649.css.map",
+    "main.d5ac5805.js.map": "/Wikipedia-Fetcher-Api-/static/js/main.d5ac5805.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4dd9649.css",
+    "static/js/main.d5ac5805.js"
+  ]
+}
